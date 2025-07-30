@@ -1,0 +1,16 @@
+Index(['RDR1_DocEntry', 'LineNum', 'TrgetEntry', 'ItemCode', 'Dscription',
+       'LineTotal', 'ODLN_DocEntry', 'DocNum_x', 'CANCELED_x', 'DocStatus_x',
+       'order_date', 'CardCode_x', 'CardName_x', 'NumAtCard_x', 'DocTotal_x',
+       'DocEntry', 'DocNum_y', 'CANCELED_y', 'DocStatus_y', 'delivery_date',
+       'CardCode_y', 'CardName_y', 'NumAtCard_y', 'DocTotal_y', 'CleanName',
+       'BrandName', 'Year', 'Month'],
+      dtype='object')
+
+      
+Index(['RDR1_DocEntry', 'LineNum', 'TrgetEntry', 'ItemCode', 'Dscription',
+       'LineTotal', 'ODLN_DocEntry', 'DocNum_x', 'CANCELED_x', 'DocStatus_x',
+       'order_date', 'CardCode_x', 'CardName_x', 'NumAtCard_x', 'DocTotal_x',
+       'DocEntry', 'DocNum_y', 'CANCELED_y', 'DocStatus_y', 'delivery_date',
+       'CardCode_y', 'CardName_y', 'NumAtCard_y', 'DocTotal_y', 'CleanName',
+       'BrandName', 'Year', 'Month', 'lastest_delivery_date'],
+      dtype='object')

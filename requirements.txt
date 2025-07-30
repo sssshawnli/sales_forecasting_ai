@@ -1,0 +1,22 @@
+# Core data libraries
+pandas>=1.5
+numpy>=1.21
+
+# Visualization
+matplotlib>=3.5
+seaborn>=0.11  # optional but commonly used
+
+# Statsmodels for OLS, ARIMA
+statsmodels>=0.13
+
+# Scikit-learn for Lasso, Ridge, preprocessing
+scikit-learn>=1.2
+
+# Jupyter Notebook
+jupyterlab>=3.5
+
+# Optional: Time series handling
+pmdarima>=2.0  # If you're using auto_arima
+
+# Optional: warnings suppression or logging
+tqdm>=4.60
