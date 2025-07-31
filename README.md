@@ -66,12 +66,6 @@ The following outputs will be generated:
 
 - Forecasted revenue for 2025 from each model
 - Visual comparison plots: actual vs predicted revenue
-- CSV files exported to the `output/` directory:
-  - `ols_forecast.csv`
-  - `lasso_forecast.csv`
-  - `ridge_forecast.csv`
-
----
 
 ## Dependencies
 
