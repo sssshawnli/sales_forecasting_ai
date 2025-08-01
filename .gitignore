@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+data/
+
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode config
+.vscode/
+
+# Output
+output/
+*.pdf
+*.png
+
+# Ignore large raw data files
+*.csv
