@@ -24,7 +24,7 @@ pd_project/
 ## Data Source
 
 The raw datasets used for model training and forecasting are stored in Google Drive:
-[Access the data here](https://drive.google.com/drive/folders/1VLoFvVjqo7XCLlRdd4cuSTxUGT18Wi_Y?usp=drive_link)
+[Access the data here]https://drive.google.com/file/d/1BRCXbkojGUDFKXjmWOpK7IV1GHxwvZj8/view?usp=sharing)
 
 Place the downloaded `.csv` files (e.g., `ORDR.csv`, `RDR1.csv`) into:
 
